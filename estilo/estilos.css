@@ -193,7 +193,7 @@ justify-content: center;
 .costa__contenido {
     text-align: center;
     padding: 1%;
-    font-size: 30px;
+    font-size: 20px;
     grid-area: costa;
 }
 .costa__contenido li{
@@ -204,7 +204,7 @@ justify-content: center;
 .sierra__contenido {
     text-align: center;
     padding: 1%;
-    font-size: 30px;
+    font-size: 20px;
     grid-area: sierra;
 }
 
@@ -218,11 +218,15 @@ justify-content: center;
 .selva__contenido {
     text-align: center;
     padding: 1%;
-    font-size: 30px;
+    font-size: 20px;
     grid-area: selva;
 }
 .selva__contenido li{
     list-style-type: none;
+}
+
+.video{
+    text-align: center;
 }
 
 /*-----------CONTACTO---------*/
